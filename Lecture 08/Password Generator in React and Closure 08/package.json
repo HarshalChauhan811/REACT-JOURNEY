@@ -1,0 +1,19 @@
+{
+  "name": "password-generator-in-react-and-closure-08",
+  "version": "1.0.0",
+  "description": "<!-- state variable kitne hai  -->\r <!-- ui me kya kya change ho rha hai usse pta chal jayega  -->",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
